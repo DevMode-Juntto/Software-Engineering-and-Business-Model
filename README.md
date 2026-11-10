@@ -21,7 +21,7 @@ Documentar **a mesma solução** construída nas outras disciplinas, conectando 
 - [ ] **3 pts:** problema/oportunidade com público, dores, impactos, evidências e fontes reais.
 - [ ] **2 pts:** solução, funcionamento, tecnologias, benefícios, CitizenTech e **ODS**.
 - [ ] **2 pts:** quem usa, quem paga, receitas, tipo de relação **B2B/B2C/B2B2C** e inovação justificada.
-- [ ] **3 pts:** **BMC com os nove blocos** completos, legíveis e coerentes.
+- [x] **3 pts:** **BMC com os nove blocos** completos, legíveis e coerentes.
 
 ### 3) Mercado e benchmark — 10 pontos
 
